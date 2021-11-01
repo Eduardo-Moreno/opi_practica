@@ -1,2 +1,2 @@
-# opi_practica
+# OPI Práctica
 Examen práctico
